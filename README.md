@@ -1,3 +1,5 @@
+![Ira Siegel — Senior Software Engineer](./banner.svg)
+
 # Hi, I'm Ira! 👋
 
 ## 💻 Senior Software Engineer • Frontend-leaning Full Stack • React & TypeScript
