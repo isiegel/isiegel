@@ -82,5 +82,5 @@ I care about modular frontend architecture, observability, and shipping reliable
 Always happy to chat about React architecture, frontend performance, or building reliable systems at scale.
 
 - 🌐 [Website](https://imsiegel.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/irasiegel)
+- 💼 [LinkedIn](https://www.linkedin.com/in/isiegel)
 - ✉️ [ira@imsiegel.com](mailto:ira@imsiegel.com)
