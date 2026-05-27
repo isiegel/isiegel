@@ -83,4 +83,4 @@ Always happy to chat about React architecture, frontend performance, or building
 
 - 🌐 [Website](https://imsiegel.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/isiegel)
-- ✉️ [ira@imsiegel.com](mailto:ira@siegelcraft.com)
+- ✉️ [ira@siegelcraft.com](mailto:ira@siegelcraft.com)
